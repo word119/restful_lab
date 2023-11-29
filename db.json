@@ -1,4 +1,5 @@
-[
+{
+  "general": [
   {
     "id": "infos",
     "Productname": "CM06-100",
@@ -19,4 +20,19 @@
     "id": "Crimp_7",
     "status": "running"
   }
-]
+  ],
+  "setting":[
+  {
+    "id": "language",
+    "Language": "DE"
+  },
+  {
+    "id": "userLevel",
+    "User Level": "Operator"
+  },
+  {
+    "id": "lockKeyboard",
+    "Lock Keyboard": "On"
+  }
+  ]
+}
