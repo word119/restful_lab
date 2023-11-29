@@ -1,0 +1,22 @@
+[
+  {
+    "id": "infos",
+    "Productname": "CM06-100",
+    "IP ": "192.68.40.130",
+    "Vendor": " Zoller & Fröhlich"
+  },
+  {
+    "id": "KOMAX",
+    "time": "12-12-2023",
+    "location": "Wangen-88239"
+  },
+  {
+    "id": "Crimp_Machine_1",
+    "vendor": "Z+F GmbH",
+    "Status": "ready"
+  },
+  {
+    "id": "Crimp_7",
+    "status": "running"
+  }
+]
